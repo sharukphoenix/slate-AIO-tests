@@ -1,0 +1,77 @@
+{
+    "Task1" : 
+        {
+            "type": "task",
+            "taskname": "Waterproofing",
+            "taskid": "71",
+            "status": "Not Started",
+            "classificationCode": "01 73 19",
+            "classificationCodeName": "Installation",
+            "plannedQuantity": "100",
+            "UoM": "LS",
+            "plannedDuration": "20",
+            "todayQuantity": "8",
+            "decimalPrecision": "0",
+            "progress": "8"
+        },
+    "Task2" : 
+        {
+            "type": "task",
+            "taskname": "Column Reinforcement",
+            "taskid": "72",
+            "status": "inProgressOnTrack",
+            "classificationCode": "03 21 19",
+            "classificationCodeName": "Stainless Steel Reinforcement Bars",
+            "plannedQuantity": "137",
+            "UoM": "kg",
+            "plannedDuration": "7",
+            "todayQuantity": "13.7",
+            "decimalPrecision": "0",
+            "progress": "10"
+        },
+    "Task3" : 
+        {
+            "type": "task",
+            "taskname": "Retaining Wall Reinforcement-1st Lift",
+            "taskid": "76",
+            "status": "inProgressDelayed",
+            "classificationCode": "05 45 16",
+            "classificationCodeName": "Electrical Metal Supports",
+            "plannedQuantity": "176",
+            "UoM": "kg",
+            "plannedDuration": "10",
+            "todayQuantity": "12",
+            "decimalPrecision": "1",
+            "progress": "6.8"
+        },
+    "Task4" : 
+        {
+            "type": "task",
+            "taskname": "Grade Slab PCC",
+            "taskid": "82",
+            "status": "inProgressDelayed",
+            "classificationCode": "03 01 30.72",
+            "classificationCodeName": "Strengthening of Cast-in-Place Concrete",
+            "plannedQuantity": "210",
+            "UoM": "Ton",
+            "plannedDuration": "1",
+            "todayQuantity": "200",
+            "decimalPrecision": "2",
+            "progress": "95.24"
+        },
+    "Task5" : 
+        {
+            "type": "task",
+            "taskname": "Waterproofing",
+            "taskid": "71",
+            "status": "completed",
+            "classificationCode": "01 73 19",
+            "classificationCodeName": "Installation",
+            "plannedQuantity": "100",
+            "UoM": "LS",
+            "plannedDuration": "20",
+            "todayQuantity": "8",
+            "decimalPrecision": "2",
+            "progress": "100"
+        }
+}

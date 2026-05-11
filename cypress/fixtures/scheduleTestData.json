@@ -1,0 +1,34 @@
+{
+    "addTask1" : 
+        {
+            "type": "task",
+            "taskname": "task01",
+            "duration": "5",
+            "status": "notStarted",
+            "scheduleChangeStatus": "Not started"
+        },
+    "addTask2" : 
+        {
+            "type": "task",
+            "taskname": "Level 1 Mechanical Ducts",
+            "duration": "5",
+            "status": "notStarted",
+            "scheduleChangeStatus": "Not started"
+        },
+    "addTask3" : 
+        {
+            "type": "task",
+            "taskname": "baselineTask",
+            "duration": "5",
+            "status": "notStarted",
+            "scheduleChangeStatus": "Not started"
+        },
+    "addTask4" : 
+        {
+            "type": "task",
+            "taskname": "Level 1 Mechanical Equipment",
+            "duration": "5",
+            "status": "notStarted",
+            "scheduleChangeStatus": "Not started"
+        }
+}

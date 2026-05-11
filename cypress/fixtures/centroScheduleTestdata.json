@@ -1,0 +1,24 @@
+{
+    "Task1" : 
+        {
+            "type": "task",
+            "taskname": "L2 Wall +POD + Allignment"
+        },
+    "Task2" : 
+        {
+            "type": "task",
+            "taskname": "Inspection - Structure (PLF)"
+        },
+    "Task3" : 
+        {
+            "type": "task",
+            "taskname": "Roof Final Inspection",
+            "taskid": "53"
+        },
+    "Task4" :
+        {
+            "type": "task",
+            "taskname": "Roof Soffit",
+            "taskid": "37"
+        }
+}

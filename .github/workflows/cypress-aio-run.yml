@@ -1,0 +1,29 @@
+name: Cypress DailyLog BOQ Tests
+
+on:
+  workflow_dispatch: # Allows you to manually trigger the run from the Actions tab
+  push:
+    branches:
+      - main # Runs on push to main (feel free to change this)
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # Modify if you're using a different node version
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci # or npm install if you don't have a package-lock.json
+        
+      - name: Run Cypress DailyLog Tests
+        run: npx cypress run --config-file cypressQE.config.js --spec cypress/e2e/dailyLog/dailyLogBOQTests.cy.js --browser chrome
+        env:
+          AIO_API_KEY: ${{ secrets.AIO_API_KEY }}

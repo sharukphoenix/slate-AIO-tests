@@ -1,0 +1,55 @@
+{
+    "rowValues1": {
+      "0": "Electrical",
+      "1": "Containment - MEP Fabrication",
+      "2": "True",
+      "3": "True",
+      "4": "Revit length and Revit count",
+      "5": "True",
+      "6": "1 meter"
+    },
+    "dropdownOptions": {
+      "0": ["Architecture", "Electrical", "Location", "Mechanical", "Plumbing", "Structure", "Site", "Other"],
+      "2": ["True", "False"],
+      "3": ["True", "False"],
+      "4": ["Do Not quantify", "Revit Count(each)", "Revit Length", "Revit length and Revit count"],
+      "5": ["True", "False"],
+      "6": ["1 meter", "2 meters", "3 meters"]
+    },
+    "rowValues2": {
+        "0": "Location",
+        "1": "Containment - MEP Fabrication",
+        "2": "False",
+        "3": "True",
+        "4": "Revit length and Revit count",
+        "5": "True",
+        "6": "1 meter"
+    },
+    "Electrical": {
+        "expectedValues": [
+            "",
+            "True",
+            "Revit length and Revit count",
+            "True",
+            "1 meter"
+        ]
+    },
+    "Mechanical": {
+        "expectedValues": [
+            "",
+            "True",
+            "Revit Length",
+            "True",
+            "1 meter"
+        ]
+    },
+    "Plumbing": {
+        "expectedValues": [
+            "",
+            "True",
+            "Revit length and Revit count",
+            "True",
+            "1 meter"
+        ]
+    }
+  }

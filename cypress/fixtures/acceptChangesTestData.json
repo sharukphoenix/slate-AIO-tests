@@ -1,0 +1,32 @@
+{
+    "acceptTask" : 
+        {
+            "type": "task",
+            "taskname": "acceptTask",
+            "duration": "100",
+            "status": "inProgressOnTrack",
+            "expectedStatusBeforeDL": "inProgressOnTrack",
+            "expectedStatusAfterDL": "inProgressOnTrack",
+            "userAction": "Accept"
+        },
+    "rejectTask"  :
+        {
+            "type": "task",
+            "taskname": "rejectTask",
+            "duration": "100",
+            "status": "inProgressDelayed",
+            "expectedStatusBeforeDL": "notStarted",
+            "expectedStatusAfterDL": "inProgressDelayed",
+            "userAction": "Reject"
+        },
+    "pendingTask"  :
+        {
+            "type": "task",
+            "taskname": "pendingTask",
+            "duration": "100",
+            "status": "completed",
+            "expectedStatusBeforeDL": "notStarted",
+            "expectedStatusAfterDL": "completed",
+            "userAction": ""
+        }
+    }

@@ -1,0 +1,76 @@
+{
+    "notStartedStatus" : 
+        {
+            "type": "task",
+            "taskname": "task01",
+            "duration": "100",
+            "status": "notStarted",
+            "scheduleChangeStatus": "Not started"
+        },
+    "inprogressDelayedStatus"  :
+        {
+            "type": "task",
+            "taskname": "task01",
+            "duration": "100",
+            "status": "inProgressDelayed",
+            "scheduleChangeStatus": "Not started"
+        },
+    "inprogressOntrackStatus"  :
+        {
+            "type": "task",
+            "taskname": "task01",
+            "duration": "100",
+            "status": "inProgressOnTrack",
+            "scheduleChangeStatus": "Not started"
+        },
+    "completedStatus"  :
+        {
+            "type": "task",
+            "taskname": "task01",
+            "duration": "100",
+            "status": "completed",
+            "scheduleChangeStatus": "completed"
+        },
+    "notStartedStatus1" : 
+        {
+            "type": "task",
+            "taskname": "task02",
+            "duration": "100",
+            "status": "notStarted",
+            "scheduleChangeStatus": "completed"
+        },
+    "completedStatus1" : 
+    {
+        "type": "task",
+        "taskname": "task02",
+        "duration": "100",
+        "status": "completed",
+        "scheduleChangeStatus": "completed"
+    },
+    "inprogressDelayedStatus1" :
+    {
+        "type": "task",
+        "taskname": "task02",
+        "duration": "100",
+        "status": "inProgressDelayed",
+        "scheduleChangeStatus": "Not started"
+    },
+    "inprogressOntrackStatus1"  :
+    {
+        "type": "task",
+        "taskname": "task02",
+        "duration": "100",
+        "status": "inProgressOnTrack",
+        "scheduleChangeStatus": "Not started"
+    },
+    "multiUser": {
+        "status": "inProgressOnTrack",
+        "comment": "Multi-user DL update by User A",
+        "progressValue": "10"
+    },
+    "multiUserB": {
+        "status": "inProgressOnTrack",
+        "comment": "Multi-user DL update by User B",
+        "progressValue": "20"
+    }
+}

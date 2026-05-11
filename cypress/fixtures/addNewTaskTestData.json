@@ -1,0 +1,16 @@
+{
+    "assignedActivity" : 
+        {
+            "type": "task",
+            "taskname": "assignedActivityTask",
+            "duration": "100",
+            "status": "inProgressOnTrack",
+            "userAction": "Accept"
+        },
+    "upcomingActivity"  :
+        {
+            "type": "task",
+            "taskname": "upcomingActivityTask",
+            "duration": "100"
+        }
+}

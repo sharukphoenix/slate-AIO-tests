@@ -1,0 +1,37 @@
+{
+    "Task1" : 
+        {
+            "type": "task",
+            "taskname": "Concreting-Column",
+            "taskid": "268",
+            "status": ""
+        },
+    "Task2" : 
+        {
+            "type": "task",
+            "taskname": "Shuttering -Slab& Beam",
+            "taskid": "269",
+            "status": ""
+        },
+    "Task3" : 
+        {
+            "type": "task",
+            "taskname": "Reinforcement -Slab& Beam",
+            "taskid": "270",
+            "status": "inProgressDelayed"
+        },
+    "Task4" : 
+        {
+            "type": "task",
+            "taskname": "Electrical Works -Slab& Beam",
+            "taskid": "271",
+            "status": "inProgressOnTrack"
+        },
+    "Task5" : 
+        {
+            "type": "task",
+            "taskname": "Concreting -Slab& Beam",
+            "taskid": "272",
+            "status": "completed"
+        }
+}

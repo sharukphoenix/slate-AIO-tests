@@ -1,0 +1,121 @@
+{
+  "Backfill": {
+    "windMph": "",
+    "windGustMph": "5",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Concrete/Pour": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "32",
+    "impactedByRainSnow": true
+  },
+  "Crane": {
+    "windMph": "37",
+    "windGustMph": "",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "Earthworks/Excavation/SITEWORKS:": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Excavate": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Exterior": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Form": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "Formwork/Scaffolding": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "Glazing": {
+    "windMph": "",
+    "windGustMph": "",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "LANDSCAPING:": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Outdoor Painting/Adhesive/Waterproofing": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  },
+  "Reinforce": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "SOG": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "32",
+    "impactedByRainSnow": true
+  },
+  "Steel Erection": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "Steelworks": {
+    "windMph": "",
+    "windGustMph": "35",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": false
+  },
+  "Suspended Slab": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "32",
+    "impactedByRainSnow": true
+  },
+  "Trench": {
+    "windMph": "",
+    "windGustMph": "4",
+    "maxTempF": "",
+    "minTempF": "",
+    "impactedByRainSnow": true
+  }
+}

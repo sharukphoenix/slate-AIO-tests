@@ -1,0 +1,544 @@
+{
+    "rows": [
+      {
+        "stateGrouping": "Architecture",
+        "category": "Floors",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Fire Protection",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Curtain Wall Mullions",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Walls",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Curtain Wall Panels",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Doors",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Gutters",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Fascias",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Stairs",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Furniture",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Ceilings",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Ramp",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Casework",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Roofs",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Architecture",
+        "category": "Windows",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Communication Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Cable Tray Fittings",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Containment - MEP Fabrication",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit length and Revit count",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Cable Trays",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "ElectricalEquipment",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Lighting Fixtures",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Nurse Call Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Data Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Fire Alarm Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Security Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Lighting Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Telephone Devices",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Electrical Fixtures",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Conduit Fittings",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Electrical",
+        "category": "Conduits",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Location",
+        "category": "Grids",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Location",
+        "category": "Levels",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Flex Ducts",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Insulations - MEP Fabrication Ductwork",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit length and Revit count",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Duct Fittings",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Mechanical Equipment",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Duct Accessories",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Duct Insulations",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Ducts",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Air Terminals",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Mechanical",
+        "category": "Ductwork - MEP Fabrication",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit length and Revit count",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Other",
+        "category": "Specialty Equipment",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Other",
+        "category": "Generic Models",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Other",
+        "category": "Model Groups",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Other",
+        "category": "MEP Fabrication Hangers",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Pipe Fittings",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Pipes",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Pipework - MEP Fabrication",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit length and Revit count",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Pipe Insulations",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Flex Pipes",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Length",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Insulations - MEP Fabrication Pipework",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit length and Revit count",
+        "splitGeometry": "True",
+        "lengthOfSplit": "1 meter"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Sprinklers",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Plumbing Fixtures",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Plumbing",
+        "category": "Pipe Accessories",
+        "processGeometry": "True",
+        "highlightGeometry": "True",
+        "unit": "Revit Count(each)",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Site",
+        "category": "Toposolid",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Site",
+        "category": "Parking",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Structure",
+        "category": "Structural Columns",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Structure",
+        "category": "Structural Framing",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Structure",
+        "category": "Columns",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      },
+      {
+        "stateGrouping": "Structure",
+        "category": "Structural Foundations",
+        "processGeometry": "True",
+        "highlightGeometry": "False",
+        "unit": "Do Not quantify",
+        "splitGeometry": "n/a",
+        "lengthOfSplit": "n/a"
+      }
+    ]
+  }
