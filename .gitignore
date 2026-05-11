@@ -4,7 +4,6 @@ cypress/screenshots/
 cypress/reports/
 cypress/downloads/
 cypress/exports
-package-lock.json
 cypress.config.js
 .vscode/
 .env.local
