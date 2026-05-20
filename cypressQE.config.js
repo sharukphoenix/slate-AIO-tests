@@ -33,12 +33,12 @@ module.exports = defineConfig({
     aioTests: {
       enableReporting: true,
       cloud: {
-        apiKey: process.env.AIO_API_KEY || 'NDk2MjliNDUtYzgxMi00NjlmLTlkYWUtYjQ2ZDFlNjE5MDc5LjM2YTYyMjhiLWFlMjgtNGZkMi1hNzBlLTk0ZGZjMjYzMGQzZA=='
+        apiKey: process.env.AIO_API_KEY || 'NjlkN2ViNDEtMmM4Mi0zNzdjLTg5YWQtYjI4NzU5YWEyYjgwLmQwYzA5MzZmLTlkN2YtNDU5NC1hMjIwLTNmNzE4Zjc5Mjk0NQ=='
       },
-      jiraProjectId: "KAN",
+      jiraProjectId: "PLA",
       cycleDetails: {
         createNewCycle: false,
-        cycleKey: "KAN-CY-Adhoc"
+        cycleKey: "PLA-CY-Adhoc"
       },
       addNewRun: true,
       addAttachmentToFailedCases: true

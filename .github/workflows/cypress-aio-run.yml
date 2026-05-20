@@ -2,10 +2,11 @@ name: Cypress DailyLog BOQ Tests
 
 on:
   workflow_dispatch: # Allows you to manually trigger the run from the Actions tab
-  push:
-    branches:
-      - main # Runs on push to main (feel free to change this)
-
+    inputs:
+      suite:
+        required: true
+        type: string
+  
 jobs:
   cypress-run:
     runs-on: self-hosted
@@ -24,6 +25,6 @@ jobs:
         run: npm ci # or npm install if you don't have a package-lock.json
         
       - name: Run Cypress DailyLog Tests
-        run: npx cypress run --config-file cypressQE.config.js --spec cypress/e2e/dailyLog/dailyLogBOQTests.cy.js --browser chrome
+        run: npx cypress run --config-file cypressQE.config.js --spec cypress/e2e/${{github.event.inputs.suite}}/dailyLogBOQTests.cy.js --browser chrome
         env:
           AIO_API_KEY: ${{ secrets.AIO_API_KEY }}
